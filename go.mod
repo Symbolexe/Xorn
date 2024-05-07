@@ -1,6 +1,6 @@
 module xorn
 
-go 1.22.2
+go 1.17
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.1 // indirect
