@@ -36,7 +36,7 @@ Download precompiled binaries from the Releases section of this repository. Choo
 ## Usage
 Xorn provides a wide range of options to customize the scanning process. Here's how you can use it
 
-```xorn -d <domain> [options]```
+```./xorn -d <domain> [options]```
 ## Options
 1. -d <domain>: Specifies the domain to scan subdomains for.
 2. -t <threads>: Number of concurrent threads (default is 100).
