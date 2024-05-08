@@ -51,6 +51,6 @@ Xorn provides a wide range of options to customize the scanning process. Here's 
 11. --status-code: Check HTTP status code of subdomains.
 12. --title: Retrieve title of subdomains.
 ## Example
-```xorn -d example.com -w wordlist.txt -o subdomains.txt --status-code --title```
+```./xorn -d example.com -w wordlist.txt -o subdomains.txt --status-code --title```
 
 This command scans subdomains of example.com using the wordlist wordlist.txt, saves the results to subdomains.txt, and checks HTTP status codes and retrieves titles of web pages associated with the subdomains.
