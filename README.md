@@ -1,4 +1,4 @@
-# xorn
+# Xorn
 ![Xorn Tool](https://github.com/Symbolexe/xorn/assets/140549630/c965deb0-6116-4249-8033-a4e5bd055e3f)
 Xorn is a versatile subdomain scanner tool written in Go. It enables you to discover subdomains of a given domain by performing DNS resolution, and optionally checking HTTP status codes and retrieving titles of web pages associated with the subdomains.
 ## Features
